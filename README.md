@@ -6,6 +6,7 @@ This is the SuBmission of Awak Assingment
 - Styles.css
 - Script.js
 
+
  ------------------------------------------ If You Want To Run these File Of Your Computer Then ---------------------------------------------------------------
  - First Install git on your local pc . Or you already have Git installed in your pc then,
  - Make a New Folder in your Pc and Left Click It and click git bash, then it will open Git Bash and then,
