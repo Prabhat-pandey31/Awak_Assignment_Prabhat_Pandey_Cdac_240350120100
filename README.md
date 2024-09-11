@@ -27,7 +27,7 @@ This is the SuBmission of Awak Assingment
   ![Screenshot 2024-09-11 165606](https://github.com/user-attachments/assets/a1512827-cdad-4edc-beaf-0bfdba40d5fb)
 
                              
- Demo Video Of login Page -  https://youtu.be/-dAWBQNTEr0  
+ Demo Of login Page -  https://prabhat-pandey31.github.io/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100/
 
  
 
