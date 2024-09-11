@@ -24,10 +24,12 @@ This is the SuBmission of Awak Assingment
 
     -----------------------------------    This is How's your Login Page Look Like ------------------------------------------------------------------------
 
+    Demo Of login Page -  https://prabhat-pandey31.github.io/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100/
+
   ![Screenshot 2024-09-11 165606](https://github.com/user-attachments/assets/a1512827-cdad-4edc-beaf-0bfdba40d5fb)
 
                              
- Demo Of login Page -  https://prabhat-pandey31.github.io/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100/
+
 
  
 
